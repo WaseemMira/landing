@@ -1,0 +1,19 @@
+.footer {
+  background-color: rgba(0, 0, 0, 0.86);
+  padding: 65px;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.footer .fab{
+   color: #1EDD88;
+   font-size: 30px;
+}
+
+.footer p {
+  color:rgba(255, 255, 255, 0.337)
+}
+
+.footer .fas {
+  color:red;
+}
